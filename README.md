@@ -13,6 +13,7 @@ giveselfxp 500  \\ 加经验
 ### 工具
 
 <details>
+<summary>基础工具</summary>
 
 |         item name             |     物品     |
 | ----------------------------  | ------------ |
