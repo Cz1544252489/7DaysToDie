@@ -60,6 +60,7 @@ giveselfxp 500  \\ 加经验
 | gunHandgunT1Pistol            |  手枪        |
 | gunHandgunT2Magnum44          |   马格南      |
 | gunRifleT3SniperRifle          |  狙击步枪    |
+| gunMGT2TacticalAR              |  战术突击步枪 |
 | gunMGT1AK47                    |  AK47        |
 | gunMGT3M60                     |  M60          |
 
