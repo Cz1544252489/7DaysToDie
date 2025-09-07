@@ -72,6 +72,7 @@ giveselfxp 500  \\ 加经验
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
 | ammoBundle9mmBulletBall        |  9毫米子弹包  |
+| ammoBundle762mmBulletBall      |  7.62毫米子弹 |
 | ammoBundleShotgunShell        |   霰弹枪子弹包  |
 | thrownAmmoPipeBomb            |   管状手雷      |
 | thrownGrenadeContact          |    手雷        |
