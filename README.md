@@ -78,8 +78,11 @@ giveselfxp 500  \\ 加经验
 | ammoBundle44MagnumBulletBall  |   .44马格南子弹 |
 | ammoBundleShotgunShell        |   霰弹枪子弹包  |
 | thrownAmmoPipeBomb            |   管状手雷      |
-| thrownGrenadeContact          |    手雷        |
+| thrownGrenadeContact          |    触式手雷     |
+| thrownGrenade                  |   手雷        |
 | thrownDynamite                |   柱状炸药      |
+| thrownTimedCharge            |    定时炸弹      |
+| thrownAmmoMolotovCocktail      |    燃烧弹      |
 
 </details>
 
