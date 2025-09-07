@@ -141,6 +141,7 @@ giveselfxp 500  \\ 加经验
 | resourceFishingWeight          |        铅锤          |
 | resourceScopeLens              |      瞄准镜镜片        |
 | resourceCropCottonPlant        |      棉花          |
+| resourceLegendaryParts          |    传奇零件        |
 
 </details>
 
