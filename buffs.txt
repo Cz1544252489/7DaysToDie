@@ -1,0 +1,444 @@
+	<buff name="testBuff" icon="server_favorite" icon_color="132,0,155" icon_blink="true">
+	<buff name="buffClickMe" name_key="buffClickMeName" description_key="buffClickMeDesc" icon="ui_game_symbol_pen" icon_color="255,128,0" icon_blink="true">
+	<buff name="god" name_key="buffGodModeName" description_key="buffGodModeDesc" tooltip_key="buffGodModeTooltip" icon="ui_game_symbol_add" icon_color="132,0,155" remove_on_death="false" allow_in_editor="true">
+	<buff name="buffShowAIDisabled" name_key="buffShowAIDisabledName" description_key="buffShowAIDisabledDesc" icon="server_z_always_run" icon_color="132,0,155" remove_on_death="false">
+	<buff name="buffShowAnimationDisabled" name_key="buffShowAnimationDisabledName" description_key="buffShowAnimationDisabledDesc" icon="ui_game_symbol_twitch_stay_still" icon_color="132,0,155">
+	<buff name="maxedout" icon="ui_game_symbol_perk" icon_color="132,0,155">
+	<buff name="buffme" icon="ui_game_symbol_perk" icon_color="132,0,155">
+	<buff name="nerfme" icon="ui_game_symbol_perk" icon_color="255,0,0">
+	<buff name="messmeup" icon="ui_game_symbol_perk" icon_color="255,0,0">
+	<buff name="megadamage" icon="ui_game_symbol_destruction2" icon_color="132,0,155">
+	<buff name="pegasus" icon="ui_game_symbol_agility" icon_color="132,0,155">
+	<buff name="buffCountHits" name_key="buffCountHitsName" description_key="buffCountHitsDesc" icon="server_favorite" icon_color="132,0,155" icon_blink="true">
+	<buff name="zombieBuffStatusCheck01" name_key="beers" description_key="drunkDesc" tooltip_key="drunkTooltip" icon="ui_game_symbol_beer">
+	<buff name="buffStatusCheck01" hidden="true" remove_on_death="false">
+	<buff name="buffStatusCheck02" hidden="true" remove_on_death="false">
+	<buff name="buffDeathFoodDrinkAdjust" hidden="true" remove_on_death="false">
+	<buff name="buffLevelUpTracking" hidden="true" remove_on_death="false">
+	<buff name="buffCrouching" hidden="true">
+	<buff name="buffHarvest" tooltip_key="buffHarvestTooltip" hidden="true" remove_on_death="false">
+	<buff name="buffDukeNote" name_key="buffDukeNoteName" description_key="buffDukeNoteDesc" icon="ui_game_symbol_invite" icon_color="0,255,0">
+	<buff name="buffNewbieCoat" name_key="buffNewbieCoatName" description_key="buffNewbieCoatDesc"	icon="ui_game_symbol_light_armor" remove_on_death="false">
+	<buff name="buffEntitySpawnHeal" icon="ui_game_symbol_add" hidden="true">
+	<buff name="buffGiveFourPoints" description="Gives four skill points" icon="ui_game_symbol_lightbulb" icon_color="255,175,175" hidden="true">
+	<buff name="buffRefillStatsTesting" description="Refills Health, Stamina, Food, and Water" icon="ui_game_symbol_lightbulb" icon_color="255,175,175" hidden="true">
+	<buff name="buffLootStageCap" name_key="buffLootStageCapName" description_key="buffLootStageCapDesc" icon="ui_game_loot_stage_bad" showonhud="false">
+	<buff name="buffLumberjackSetBonus" name_key="buffLumberjackSetBonusName" description_key="buffLumberjackSetBonusDesc" tooltip_key="buffLumberjackSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffPreacherSetBonus" name_key="buffPreacherSetBonusName" description_key="buffPreacherSetBonusDesc" tooltip_key="buffPreacherSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffRogueSetBonus" name_key="buffRogueSetBonusName" description_key="buffRogueSetBonusDesc" tooltip_key="buffRogueSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffAthleticSetBonus" name_key="buffAthleticSetBonusName" description_key="buffAthleticSetBonusDesc" tooltip_key="buffAthleticSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffEnforcerSetBonus" name_key="buffEnforcerSetBonusName" description_key="buffEnforcerSetBonusDesc" tooltip_key="buffEnforcerSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffFarmerSetBonus" name_key="buffFarmerSetBonusName" description_key="buffFarmerSetBonusDesc" tooltip_key="buffFarmerSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffBikerSetBonus" name_key="buffBikerSetBonusName" description_key="buffBikerSetBonusDesc" tooltip_key="buffBikerSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffScavengerSetBonus" name_key="buffScavengerSetBonusName" description_key="buffScavengerSetBonusDesc" tooltip_key="buffScavengerSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffRangerSetBonus" name_key="buffRangerSetBonusName" description_key="buffRangerSetBonusDesc" tooltip_key="buffRangerSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffCommandoSetBonus" name_key="buffCommandoSetBonusName" description_key="buffCommandoSetBonusDesc" tooltip_key="buffCommandoSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffAssassinSetBonus" name_key="buffAssassinSetBonusName" description_key="buffAssassinSetBonusDesc" tooltip_key="buffAssassinSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffMinerSetBonus" name_key="buffMinerSetBonusName" description_key="buffMinerSetBonusDesc" tooltip_key="buffMinerSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffNomadSetBonus" name_key="buffNomadSetBonusName" description_key="buffNomadSetBonusDesc" tooltip_key="buffNomadSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffNerdSetBonus" name_key="buffNerdSetBonusName" description_key="buffNerdSetBonusDesc" tooltip_key="buffNerdSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffRaiderSetBonus" name_key="buffRaiderSetBonusName" description_key="buffRaiderSetBonusDesc" tooltip_key="buffRaiderSetBonusTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,255">
+	<buff name="buffPreacherFullSetBonusCheck" hidden="true" icon_color="0,255,255">
+	<buff name="buffRogueBoots" hidden="true" icon_color="0,255,255">
+	<buff name="buffMinerBoots" hidden="true" icon_color="0,255,255">
+	<buff name="buffNerdOutfit" hidden="true" icon_color="0,255,255">
+	<buff name="buffNerdBoots" hidden="true" icon_color="0,255,255">
+	<buff name="buffRaiderBoots" hidden="true" icon_color="0,255,255">
+	<buff name="buffRaiderOutfit" hidden="true" icon_color="0,255,255">
+	<buff name="buffPerkPummelPete" name_key="buffPerkPummelPeteName" description_key="buffPerkPummelPeteDesc" icon="ui_game_symbol_stunned">
+	<buff name="buffPerkPummelPeteBonus" name_key="buffPerkPummelPeteBonusName" description_key="buffPerkPummelPeteBonusDesc" icon="ui_game_symbol_stunned" icon_color="0,255,0" icon_blink="true">
+	<buff name="buffPerkGunslinger" name_key="buffPerkGunslingerName" description_key="buffPerkGunslingerDesc" icon="ui_game_symbol_gunslinger">
+	<buff name="buffPerkGunslingerBonus" name_key="buffPerkGunslingerBonusName" description_key="buffPerkGunslingerBonusDesc" icon="ui_game_symbol_gunslinger" icon_color="0,255,0" icon_blink="true">
+	<buff name="buffDeadEye" name_key="buffDeadEyeName" description_key="buffDeadEyeDesc" icon="ui_game_symbol_map_cursor" icon_color="0,255,0" icon_blink="true">
+	<buff name="buffPerkCharismaticNature" name_key="perkCharismaticNatureName" description_key="buffPerkCharismaticNatureDesc" icon="ui_game_symbol_talk" icon_color="0,255,0" icon_blink="false" hidden="false">
+	<buff name="buffAnimalTracker" name_key="buffAnimalTrackerName" description_key="buffAnimalTrackerDesc" icon="ui_game_symbol_animal_tracker">
+	<buff name="buffAnimalTrackerAcquired" name_key="buffAnimalTrackerName" description_key="buffAnimalTrackerAcquiredDesc" icon="ui_game_symbol_animal_tracker" icon_color="0,255,0">
+	<buff name="buffBrawlerNoTeeth" name_key="Name" description_key="buffBrawlerNoTeethDesc" icon="ui_game_symbol_boxer">
+	<buff name="buffBerserker" name_key="buffBerserkerName" description_key="buffBerserkerDesc" icon="ui_game_symbol_berserker">
+	<buff name="buffPackMuleDisplay" name_key="buffPackMuleDisplayName" description_key="buffPackMuleDisplayDesc" icon="ui_game_symbol_defense" icon_color="0,255,0">
+	<buff name="buffGrandSlamDisplay" name_key="buffGrandSlamDisplayName" description_key="buffGrandSlamDisplayDesc" icon="ui_game_symbol_grand_slam" icon_color="0,255,0">
+	<buff name="buffPerkBookwormSuccess" name_key="buffPerkBookwormName" description_key="buffPerkBookwormDesc" icon="ui_game_symbol_bookworm" icon_color="0,255,0">
+	<buff name="buffPerkTheDentistSilver" name_key="buffPerkTheDentistName" description_key="buffPerkTheDentistDesc" icon="ui_game_symbol_dentist" icon_color="0,255,0" remove_on_death="false">
+	<buff name="buffPerkTheDentistGold" name_key="buffPerkTheDentistName" description_key="buffPerkTheDentistDesc" icon="ui_game_symbol_dentist" icon_color="0,255,0" remove_on_death="false">
+	<buff name="buffSpectersGrace" name_key="buffSpectersGraceName" description_key="buffSpectersGraceDesc" icon="ui_game_symbol_specters_grace" icon_color="255,175,175">
+	<buff name="buffBurstCounter" name_key="buff Burst Counter" icon="ui_game_symbol_rifle" remove_on_death="false" hidden="true">
+	<buff name="buffPistolPeteSwissKnees" name_key="buffPistolPeteSwissKnees" icon="ui_game_symbol_pistol" hidden="true">
+	<buff name="buffAutoWeaponsRagdoll" name_key="buffAutoWeaponsRagdoll" icon="ui_game_symbol_pistol" hidden="true">
+	<buff name="buffAutoWeaponsComplete" name_key="buffAutoWeaponsCompleteName" description_key="buffAutoWeaponsCompleteDesc" showonhud="false" icon="ui_game_symbol_rifle" icon_color="0,255,0">
+	<buff name="buffUrbanCombatAdrenalineRush" name_key="buffUrbanCombatAdrenalineRushName" description_key="buffUrbanCombatAdrenalineRushDesc" showonhud="false" icon="ui_game_symbol_light_armor2" icon_color="0,255,0">
+	<buff name="buffEnforcerCriminalPursuit" name_key="buffEnforcerCriminalPursuitName" description_key="buffEnforcerCriminalPursuitDesc" showonhud="false" icon="ui_game_symbol_run_and_gun" icon_color="0,255,0">
+	<buff name="buffBarBrawling6RageMode" name_key="buffBarBrawling6RageModeName" description_key="perkBarBrawling6RageModeLongDesc" showonhud="true" icon="ui_game_symbol_boxer" icon_color="0,255,0">
+	<buff name="buffBarBrawling3KillerInstinct" name_key="buffBarBrawling3KillerInstinctName" description_key="perkBarBrawling3KillerInstinctLongDesc" showonhud="true" icon="ui_game_symbol_boxer" icon_color="0,255,0">
+	<buff name="buffPerkBarBrawling8Complete" name_key="perkBarBrawling8CompleteDesc" description_key="perkBarBrawling8CompleteLongDesc" icon="ui_game_symbol_7th_curse">
+	<buff name="buffPerkBarBrawling8CompleteBonus" name_key="perkBarBrawling8CompleteDesc" description_key="perkBarBrawling8CompleteLongDesc" icon="ui_game_symbol_7th_curse" icon_color="0,255,0" icon_blink="true">
+	<buff name="buffSledgeSaga3CrippledMorale" name_key="buffSledgeSaga3CrippledMoraleName" description_key="buffSledgeSaga3CrippledMoraleDesc" icon="ui_game_symbol_sledge" icon_color="0,255,0" icon_blink="true">
+	<buff name="buffSpearHunter7QuickStrike" name_key="buffSpearHunter7QuickStrikeName" description_key="perkSpearHunter7QuickStrikeLongDesc" showonhud="true" icon="ui_game_symbol_spear" icon_color="0,255,0" icon_blink="true">
+	<buff name="buffInjuryBleeding" name_key="buffInjuryBleedingName" description_key="buffInjuryBleedingDesc" tooltip_key="buffInjuryBleedingTooltip" icon="ui_game_symbol_critical" icon_color="255,0,0" icon_blink="true">
+	<buff name="triggerInfection" name_key="trigger" icon="ui_game_symbol_quest">
+	<buff name="triggerAbrasion" name_key="trigger" icon="ui_game_symbol_quest">
+	<buff name="triggerSprainedLeg" name_key="trigger" icon="ui_game_symbol_quest">
+	<buff name="triggerBrokenLeg" name_key="trigger" icon="ui_game_symbol_quest">
+	<buff name="triggerSprainedArm" name_key="trigger" icon="ui_game_symbol_quest">
+	<buff name="triggerBrokenArm" name_key="trigger" icon="ui_game_symbol_quest">
+	<buff name="triggerFatigued" name_key="trigger" icon="ui_game_symbol_quest">
+	<buff name="triggerBleeding" name_key="trigger" icon="ui_game_symbol_quest">
+	<buff name="triggerLaceration" name_key="trigger" icon="ui_game_symbol_quest">
+	<buff name="triggerStun" name_key="trigger" icon="ui_game_symbol_quest">
+	<buff name="triggerConcussion" name_key="trigger" icon="ui_game_symbol_quest">
+	<buff name="buffCumChanceCH" name_key="Cumulative Crit %" icon="ui_game_symbol_percent" icon_color="255,255,0" icon_blink="false" hidden="true">
+	<buff name="buffOnAnyCrit" name_key="buffOnAnyCrit" icon="ui_game_symbol_wind" icon_color="255,255,0" icon_blink="false" hidden="true">
+	<buff name="buffInjuryBleedingOne" name_key="buffInjuryBleedingOne" icon="ui_game_symbol_critical" icon_color="255,255,0" icon_blink="true" hidden="true">
+	<buff name="buffInjuryBleedingTwo" name_key="buffInjuryBleedingTwo" icon="ui_game_symbol_critical" icon_color="255,255,0" icon_blink="true" hidden="true">
+	<buff name="buffInjuryBleedingCooldown" hidden="true">
+	<buff name="buffInjuryBleedingBarbedWire" name_key="buffInjuryBleedingTwo" icon="ui_game_symbol_critical" icon_color="255,255,0" icon_blink="true" hidden="true">
+	<buff name="buffInjuryBleedingParticle" name_key="buffInjuryBleedingParticleName" hidden="true">
+	<buff name="buffAbrasionCatch" name_key="buff Abrasion Catch"  hidden="true">
+	<buff name="buffInjuryAbrasion" name_key="buffInjuryAbrasionName" description_key="buffInjuryAbrasionDesc" tooltip_key="buffInjuryAbrasionTooltip" icon="ui_game_symbol_abrasion" icon_color="255,128,0">
+	<buff name="buffInjuryAbrasionTreated" name_key="buffInjuryAbrasionTreatedName" description_key="buffInjuryAbrasionTreatedDesc" icon="ui_game_symbol_leg_treated">
+	<buff name="buffPlayerFallingDamage" name_key="buffInjuryBleedingName" description_key="buffInjuryBleedingDesc" icon="ui_game_symbol_critical" icon_color="255,0,0" hidden="true">
+	<buff name="buffLegSprainedCHTrigger" name_key="buffLegSprainedFallTrigger"  icon="ui_game_symbol_critical" icon_color="255,0,0" hidden="true">
+	<buff name="buffLegSprainedFallTrigger" name_key="buffLegSprainedFallTrigger"  icon="ui_game_symbol_critical" icon_color="255,0,0" hidden="true">
+	<buff name="buffLegSprained" name_key="buffLegSprainedName" description_key="buffLegSprainedDesc" tooltip_key="buffLegSprainedTooltip" icon="ui_game_symbol_brokenbone" icon_color="255,128,0">
+	<buff name="buffLimbSprainedCooldown" name_key="buffLimbSprainedCooldown"  icon="ui_game_symbol_critical" icon_color="255,0,0" hidden="true">
+	<buff name="buffLegBroken" name_key="buffLegBrokenName" description_key="buffLegBrokenDesc" tooltip_key="buffLegBrokenTooltip" icon="ui_game_symbol_brokenbone" icon_color="255,0,0">
+	<buff name="buffLegSplinted" name_key="buffLegSplintedName" description_key="buffLegSplintedDesc" icon="ui_game_symbol_splint">
+	<buff name="buffLegCast" name_key="buffLegCastName" description_key="buffLegCastDesc" icon="ui_game_symbol_splint">
+	<buff name="buffLegGetsWorse" name_key="buff Leg Gets Worse" icon="ui_game_symbol_brokenbone" icon_color="255,128,0" hidden="true">
+	<buff name="buffArmGetsWorse" name_key="buff Arm Gets Worse" icon="ui_game_symbol_brokenbone" icon_color="255,128,0" hidden="true">
+	<buff name="buffArmSprainedCHTrigger" name_key="buffArmSprainedFallTrigger" icon="ui_game_symbol_critical" icon_color="255,0,0" hidden="true">
+	<buff name="buffArmSprained" name_key="buffArmSprainedName" description_key="buffArmSprainedDesc" tooltip_key="buffArmSprainedTooltip" icon="ui_game_symbol_broken_arm" icon_color="255,128,0">
+	<buff name="buffArmBroken" name_key="buffArmBrokenName" description_key="buffArmBrokenDesc" tooltip_key="buffArmBrokenTooltip" icon="ui_game_symbol_broken_arm" icon_color="255,0,0">
+	<buff name="buffArmSplinted" name_key="buffArmSplintedName" description_key="buffArmSplintedDesc" tooltip_key="buffArmSplintedTooltip" icon="ui_game_symbol_splinted_arm">
+	<buff name="buffArmCast" name_key="buffArmCastName" description_key="buffArmCastDesc" icon="ui_game_symbol_splinted_arm">
+	<buff name="buffBrokenLimbStatus" name_key="buff Broken Limb" icon="ui_game_symbol_brokenbone" hidden="true" remove_on_death="false" icon_color="255,128,0">
+	<buff name="buffLacerationBleedingStatus" name_key="buff Broken Limb" icon="ui_game_symbol_critical" hidden="true" remove_on_death="false" icon_color="255,128,0">
+	<buff name="buffFatiguedTrigger" name_key="buff Fatigued Trigger" icon="ui_game_symbol_quest" hidden="true">
+	<buff name="buffFatigued" name_key="buffFatiguedName" description_key="buffFatiguedDesc" tooltip_key="buffFatiguedTooltip" icon="ui_game_symbol_fatigued" icon_color="255,128,0">
+	<buff name="buffFatigueGetsWorse" name_key="buff Fatigue Gets Worse" icon="ui_game_symbol_brokenbone" icon_color="255,128,0" hidden="true">
+	<buff name="buffLaceration" name_key="buffLacerationName" description_key="buffLacerationDesc" tooltip_key="buffLacerationTooltip" icon="ui_game_symbol_laceration" icon_color="255,128,0">
+	<buff name="buffInjuryStunned01Shotgun" name_key="buff Injury Stunned 01 Shotgun" hidden="true" icon="ui_game_symbol_stunned" icon_color="255,128,0">
+	<buff name="buffInjuryStunned02Shotgun" name_key="buff Injury Stunned 02 Shotgun" hidden="true" icon="ui_game_symbol_stunned" icon_color="255,128,0">
+	<buff name="buffInjuryStunned03Shotgun" name_key="buff Injury Stunned 03 Shotgun" hidden="true" icon="ui_game_symbol_stunned" icon_color="255,128,0">
+	<buff name="buffInjuryStunned00" name_key="buffInjuryStunned01Name" description_key="buffInjuryStunned01Desc" icon="ui_game_symbol_stunned" icon_color="255,128,0">
+	<buff name="buffInjuryStunned01CHTrigger" name_key="buffInjuryStunned01CHTrigger"  icon="ui_game_symbol_critical" icon_color="255,0,0" hidden="true">
+	<buff name="buffInjuryStunned01" name_key="buffInjuryStunned01Name" description_key="buffInjuryStunned01Desc" icon="ui_game_symbol_stunned" icon_color="255,128,0">
+	<buff name="buffInjuryStunned02" name_key="buffInjuryStunned01Name" description_key="buffInjuryStunned01Desc" icon="ui_game_symbol_stunned" icon_color="255,128,0">
+	<buff name="buffInjuryStunned03" name_key="buffInjuryStunned01Name" description_key="buffInjuryStunned01Desc" icon="ui_game_symbol_stunned" icon_color="255,128,0">
+	<buff name="buffInjuryStunned01Cooldown" hidden="true">
+	<buff name="buffInjuryConcussion" name_key="buffInjuryConcussionName" description_key="buffInjuryConcussionDesc" tooltip_key="buffInjuryConcussionTooltip" icon="ui_game_symbol_concussion" icon_color="255,128,0">
+	<buff name="buffInjuryConcussionBlur" name_key="buffInjuryConcussionBlurName" icon="ui_game_symbol_trash" icon_color="255,128,0" hidden="true">
+	<buff name="buffInjuryConcussionGetsWorse" name_key="buff InjuryConcussion Gets Worse" icon="ui_game_symbol_brokenbone" icon_color="255,128,0" hidden="true">
+	<buff name="buffBatterupStealingBases" name_key="buffBatterupStealingBasesName" description_key="buffBatterupStealingBasesDesc" showonhud="false" icon="ui_game_symbol_run_and_gun" icon_color="0,255,0">
+	<buff name="buffBatterUpSlowDown" name_key="buffBatterUpSlowDownName" description_key="buffBatterUpSlowDownDesc" tooltip_key="buffBatterUpSlowDownDesc" icon="ui_game_symbol_run" icon_color="255,128,0">
+	<buff name="buffInjurySlow" name_key="buffInjurySlowName" description_key="buffInjurySlowDesc" icon="ui_game_symbol_twitch_slow" icon_color="255,128,0">
+	<buff name="buffInjuryCrippled01" name_key="buff Injury Crippled 01" icon="ui_game_symbol_stunned" icon_color="255,128,0">
+	<buff name="buffInjuryKnockdown01" name_key="buffInjuryKnockdown01Name" description_key="buffInjuryKnockdown01Desc" icon="ui_game_symbol_stunned" icon_color="255,128,0">
+	<buff name="buffInjuryKnockdown02" name_key="buffInjuryKnockdown01Name" description_key="buffInjuryKnockdown01Desc" icon="ui_game_symbol_stunned" icon_color="255,128,0">
+	<buff name="buffInjuryKnockdown01Cooldown" hidden="true">
+	<buff name="buffInjuryUnconscious" name_key="buffInjuryUnconsciousName" description_key="buffInjuryUnconsciousDesc" tooltip_key="buffInjuryUnconsciousTooltip" icon="ui_game_symbol_critical">
+	<buff name="buffStayDownKO" hidden="true">
+	<buff name="buffCrippledMorale" name_key="buffCrippledMoraleName" description_key="buffCrippledMoraleDesc" icon="ui_game_symbol_sledge" icon_color="255,128,0">
+	<!-- <buff name="buffElementHot" name_key="buffElementHotName" description_key="buffElementHotDesc" tooltip_key="buffElementHotTooltip" icon="ui_game_symbol_hot" icon_color="255,128,0"> -->
+	<!-- <buff name="buffElementSweltering" name_key="buffElementSwelteringName" description_key="buffElementSwelteringDesc" tooltip_key="buffElementSwelteringTooltip" icon="ui_game_symbol_hot" icon_color="255,0,0" icon_blink="true"> -->
+	<!-- <buff name="buffElementCold" name_key="buffElementColdName" description_key="buffElementColdDesc" tooltip_key="buffElementColdTooltip" icon="ui_game_symbol_cold" icon_color="255,128,0"> -->
+	<!-- <buff name="buffElementFreezing" name_key="buffElementFreezingName" description_key="buffElementFreezingDesc" tooltip_key="buffElementFreezingTooltip" icon="ui_game_symbol_cold" icon_color="255,0,0" icon_blink="true"> -->
+	<!-- <buff name="buffElementWet" name_key="buffElementWetName" description_key="buffElementWetDesc" tooltip_key="buffElementWetTooltip" icon="ui_game_symbol_wet"> -->
+	<buff name="buffShocked" description_key="buffShockedDesc" tooltip_key="buffShockedTooltip" icon="ui_game_symbol_electric_power" name_key="buffShockedName" icon_color="255,0,0">
+	<buff name="buffShockImmune" hidden="true">
+	<buff name="buffBurningZombie" hidden="true">
+	<buff name="buffBurningElement" hidden="true">
+	<buff name="buffBurningEnvironment" hidden="true">
+	<buff name="buffBurningFlamingArrow" hidden="true">
+	<buff name="buffBurningMolotov" hidden="true">
+	<buff name="buffIsOnFire" name_key="buffIsOnFireName" description_key="buffIsOnFireDesc" tooltip_key="buffIsOnFireTooltip" icon="ui_game_symbol_fire" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffBurningHazardPlayer" hidden="true">
+	<buff name="buffHazardBurningElement" hidden="true">
+	<buff name="buffExtinguishFire" name_key="buffExtinguishFire" icon="ui_game_symbol_water" icon_color="0,255,0" hidden="true">
+	<buff name="buffRadiation01" name_key="buffRadiation01Name" description_key="buffRadiation01Desc" tooltip_key="buffRadiation01Tooltip" icon="ui_game_symbol_radiation" icon_color="255,128,0" icon_blink="true">
+	<buff name="buffRadiation03" name_key="buffRadiation03Name" description_key="buffRadiation03Desc" tooltip_key="buffRadiation03Tooltip" icon="ui_game_symbol_radiation" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffRadiationPool" name_key="buffRadiation03Name" description_key="buffRadiation03Desc" icon="ui_game_symbol_radiation" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffNearDeathTraumaTrigger" hidden="true">
+	<buff name="buffNearDeathTrauma" name_key="buffNearDeathTraumaName" description_key="buffNearDeathTraumaDesc" icon="ui_game_symbol_near_death_trauma" icon_color="255,128,0" remove_on_death="false">
+	<buff name="buffNearDeathTraumaCalculate" hidden="true">
+	<buff name="buffNearDeathRegen" name_key="buffNearDeathTraumaName"  icon="ui_game_symbol_near_death_trauma" icon_color="0,255,0" hidden="true">
+	<buff name="buffNearDeathProtection" icon="ui_game_symbol_near_death_trauma" icon_color="0,255,0" remove_on_death="false" hidden="true">
+	<buff name="buffDysenteryCatchFood" name_key="buff Dysentery Catch"  hidden="true">
+	<buff name="buffDysenteryCatchDrink" name_key="buff Dysentery Catch"  hidden="true">
+	<buff name="buffDysenteryMain" name_key="buffDysentery01UntreatedName" hidden="true" icon="ui_game_symbol_dysentery">
+	<buff name="buffDysenteryAddCure" name_key="buff Dysentery Add Cure" hidden="true" icon="ui_game_symbol_pills">
+	<buff name="buffDysenteryCureDisplay" name_key="buffDysenteryCureDisplayName" description_key="buffDysenteryCureDisplayDesc" showonhud="false" icon="ui_game_symbol_pills">
+	<buff name="buffDysentery01Untreated" name_key="buffDysentery01UntreatedName" description_key="buffDysentery01UntreatedDesc" icon="ui_game_symbol_dysentery" icon_color="255,128,0">
+	<buff name="buffDysentery01GetBetter" name_key="buffDysentery01GetBetterName" description_key="buffDysentery01GetBetterDesc" icon="ui_game_symbol_dysentery_better">
+	<buff name="buffDysentery01UntreatedDiarrhea" name_key="buffDysentery01UntreatedName" description_key="buffDysentery01UntreatedDesc" icon="ui_game_symbol_dysentery" icon_color="255,128,0" icon_blink="true">
+	<buff name="buffDysentery01GetBetterDiarrhea" name_key="buffDysentery01GetBetterName" description_key="buffDysentery01GetBetterDesc" icon="ui_game_symbol_dysentery_better" icon_color="255,128,0" icon_blink="true">
+	<buff name="buffInfectionCatch" name_key="buff Infection Catch" hidden="true">
+	<buff name="buffInfectionMain" name_key="buff Infection Main" hidden="true" icon="ui_game_symbol_infection">
+	<buff name="buffInfectionGetsWorse" name_key="buff Infection Gets Worse" icon="ui_game_symbol_brokenbone" icon_color="255,128,0" hidden="true">
+	<buff name="buffInfectionAddCure" name_key="buff Infection Add Cure" hidden="true" icon="ui_game_symbol_pills">
+	<buff name="buffInfectionCureDisplay" name_key="buffInfectionCureDisplayName" description_key="buffInfectionCureDisplayDesc" showonhud="false" icon="ui_game_symbol_pills">
+	<buff name="buffInfection01Untreated" name_key="buffInfection01UntreatedName" description_key="buffInfection01UntreatedDesc" tooltip_key="buffInfection01UntreatedTooltip" icon="ui_game_symbol_infection" icon_color="255,128,0">
+	<buff name="buffInfection01GetBetter" name_key="buffInfection01GetBetterName" description_key="buffInfection01GetBetterDesc" icon="ui_game_symbol_infection_better">
+	<buff name="buffInfection02Untreated" name_key="buffInfection02UntreatedName" description_key="buffInfection02UntreatedDesc" icon="ui_game_symbol_infection" icon_color="255,0,0">
+	<buff name="buffInfection02GetBetter" name_key="buffInfection02GetBetterName" description_key="buffInfection02GetBetterDesc" icon="ui_game_symbol_infection_better">
+	<buff name="buffInfection03Untreated" name_key="buffInfection03UntreatedName" description_key="buffInfection03UntreatedDesc" icon="ui_game_symbol_infection" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffInfection03GetBetter" name_key="buffInfection03GetBetterName" description_key="buffInfection03GetBetterDesc" icon="ui_game_symbol_infection_better">
+	<buff name="buffInfection04" tooltip_key="buffInfection04Tooltip" icon="ui_game_symbol_infection" icon_color="255,0,0">
+	<buff name="buffInfectionImmunity" name_key="buffInfectionImmunityName" description_key="buffInfectionImmunityDesc" icon="ui_game_symbol_infection_immunity" icon_color="0,255,0">
+	<buff name="buffStatusHungry01" name_key="buffStatusHungry01Name" description_key="buffStatusHungry01Desc" tooltip_key="buffStatusHungry01Tooltip" icon="ui_game_symbol_hunger" icon_color="255,128,0">
+	<buff name="buffStatusHungry02" name_key="buffStatusHungry02Name" description_key="buffStatusHungry02Desc" tooltip_key="buffStatusHungry02Tooltip" icon="ui_game_symbol_hunger" icon_color="255,128,0">
+	<buff name="buffStatusHungry03" name_key="buffStatusHungry03Name" description_key="buffStatusHungry03Desc" tooltip_key="buffStatusHungry03Tooltip" icon="ui_game_symbol_hunger" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffStatusThirsty01" name_key="buffStatusThirsty01Name" description_key="buffStatusThirsty01Desc" tooltip_key="buffStatusThirsty01Tooltip" icon="ui_game_symbol_water" icon_color="255,128,0">
+	<buff name="buffStatusThirsty02" name_key="buffStatusThirsty02Name" description_key="buffStatusThirsty02Desc" tooltip_key="buffStatusThirsty02Tooltip" icon="ui_game_symbol_water" icon_color="255,128,0">
+	<buff name="buffStatusThirsty03" name_key="buffStatusThirsty03Name" description_key="buffStatusThirsty03Desc" tooltip_key="buffStatusThirsty03Tooltip" icon="ui_game_symbol_water" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffStatusArmorLow" name_key="buffStatusArmorLowName" description_key="buffStatusArmorLowDesc" tooltip_key="buffStatusArmorLowTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,255,0">
+	<buff name="buffStatusArmorHigh" name_key="buffStatusArmorHighName" description_key="buffStatusArmorHighDesc" tooltip_key="buffStatusArmorHighTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,128,0">
+	<buff name="buffStatusArmorBroken" name_key="buffStatusArmorBrokenName" description_key="buffStatusArmorBrokenDesc" tooltip_key="buffStatusArmorBrokenTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffProcessConsumables" hidden="true">
+	<buff name="buffHealHealth" name_key="buffHealHealthName" description_key="buffHealHealthDesc" icon="ui_game_symbol_add">
+	<buff name="buffHealFood" name_key="buffHealFoodName" description_key="buffHealFoodDesc" icon="ui_game_symbol_hunger" hidden="false">
+	<buff name="buffPuking01" name_key="buffPuking01Name" icon="ui_game_symbol_hunger" icon_color="255,0,0" hidden="true">
+	<buff name="buffDoingHealingWrong" name_key="buffDoingHealingWrongName" description_key="buffDoingHealingWrongDesc" tooltip_key="buffDoingHealingWrongTooltip" icon="ui_game_symbol_quest">
+	<buff name="buffDoingHealingWrongCooldown" name_key="buff Doing Healing Wrong Cooldown" icon="ui_game_symbol_add" hidden="true">
+	<buff name="buffHealWaterMax" name_key="buffHealWaterMaxName" description_key="buffHealWaterMaxDesc" icon="ui_game_symbol_thirst" hidden="false">
+	<buff name="buffFoodStaminaBonus" name_key="buffFoodStaminaBonusName" description_key="buffFoodStaminaBonusDesc" icon="ui_game_symbol_agility" showonhud="true">
+	<buff name="buffDrugPainkillers" name_key="buffDrugPainkillersName" description_key="buffDrugPainkillersDesc" icon="ui_game_symbol_pills">
+	<buff name="buffDrugVitamins" name_key="drugVitamins" description_key="drugVitaminsDesc" icon="ui_game_symbol_pills">
+	<buff name="buffEncumberedInv" name_key="buffEncumberedInvName" description_key="buffEncumberedInvDesc" tooltip_key="buffEncumberedInvTooltip" icon="ui_game_symbol_pack_mule">
+	<buff name="buffDrowning01" name_key="buffDrowning01Name" description_key="buffDrowning01Desc" tooltip_key="buffDrowning01Desc" icon="ui_game_symbol_oxygen">
+	<buff name="buffDrowning02" name_key="buffDrowning01Name" description_key="buffDrowning02Desc" tooltip_key="buffDrowning02Tooltip" icon="ui_game_symbol_oxygen" icon_color="255,128,0">
+	<buff name="buffDrowning03" name_key="buffDrowning03Name" description_key="buffDrowning03Desc" tooltip_key="buffDrowning03Desc" icon="ui_game_symbol_oxygen" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffTrippy" name_key="buffTrippyName" description_key="buffTrippyDesc" tooltip_key="buffTrippyDesc" icon="ui_game_symbol_twitch_vision_effects" icon_color="255,128,0">
+	<!-- <buff name="buffJumpJetsActivated" hidden="true"> -->
+	<buff name="buffmodMeleeStunBatonRepulsor" hidden="true">
+	<buff name="buffImpactBracing" hidden="true">
+	<buff name="buffWaterPurifier" hidden="true">
+	<buff name="buffJumpJetsAirborne" hidden="true">
+	<buff name="buffRocketBootsAirborne" hidden="true">
+	<buff name="buffBandolierChest" hidden="true">
+	<buff name="buffArmorShredding" name_key="buffArmorShreddingName" description_key="buffArmorShreddingDesc" tooltip_key="buffArmorShreddingTooltip" icon="ui_game_symbol_armor_iron" icon_color="255,128,0">
+	<buff name="buffCoffee" name_key="drinkJarCoffee" description_key="drinkJarCoffeeDesc" icon="ui_game_symbol_coffee">
+	<buff name="buffBlackStrapCoffee" name_key="drinkJarBlackStrapCoffee" description_key="drinkJarBlackStrapCoffeeDesc" icon="ui_game_symbol_coffee">
+	<buff name="buffYuccaJuiceSmoothie" name_key="drinkYuccaJuiceSmoothie" description_key="drinkYuccaJuiceSmoothieDesc" icon="ui_game_symbol_coffee">
+	<buff name="buffBeer" name_key="buffDrunk01Name" description_key="buffDrunk01Desc" tooltip_key="buffDrunk01Tooltip" icon="ui_game_symbol_beer">
+	<buff name="buffBurntSmoothieRun" name_key="buffBurntSmoothieRunName" description_key="buffBurntSmoothieRunDesc" icon="ui_game_symbol_pills">
+	<buff name="buffOasisSmoothieRun" name_key="buffOasisSmoothieRunName" description_key="buffOasisSmoothieRunDesc" icon="ui_game_symbol_pills">
+	<buff name="buffFrostbiteSmoothieRun" name_key="buffFrostbiteSmoothieRunName" description_key="buffFrostbiteSmoothieRunDesc" icon="ui_game_symbol_pills">
+	<buff name="buffAtomicSmoothieRun" name_key="buffAtomicSmoothieRunName" description_key="buffAtomicSmoothieRunDesc" icon="ui_game_symbol_pills">
+	<buff name="buffMegaCrush" name_key="buffMegaCrushName" description_key="buffMegaCrushDesc" tooltip_key="buffMegaCrushTooltip" icon="ui_game_symbol_pills">
+	<buff name="buffRedTea" name_key="buffRedTea" description_key="buffRedTeaDesc" icon="ui_game_symbol_stomach">
+	<buff name="buffDrunkGrandpasMoonshine" name_key="buffDrunkGrandpasMoonshineName" description_key="buffDrunkGrandpasMoonshineDesc" tooltip_key="buffDrunkGrandpasMoonshineTooltip" icon="ui_game_symbol_beer">
+	<buff name="buffDrunkGrandpasAwesomeSauce" name_key="buffDrunkGrandpasAwesomeSauceName" description_key="buffDrunkGrandpasAwesomeSauceDesc" tooltip_key="buffDrunkGrandpasAwesomeSauceTooltip" icon="ui_game_symbol_beer">
+	<buff name="buffDrunkGrandpasLearningElixir" name_key="buffDrunkGrandpasLearningElixirName" description_key="buffDrunkGrandpasLearningElixirDesc" tooltip_key="buffDrunkGrandpasLearningElixirTooltip" icon="ui_game_symbol_beer">
+	<buff name="buffPumpkinCheesecake" name_key="foodPumpkinCheesecake" description_key="foodPumpkinCheesecakeDesc" icon="ui_game_symbol_fork">
+	<buff name="buffShamChowder" name_key="foodShamChowder" description_key="foodShamChowderDesc" icon="ui_game_symbol_fork">
+	<buff name="buffDrugSteroids" name_key="drugSteroids" description_key="drugSteroidsDesc" icon="ui_game_symbol_steroids">
+	<buff name="buffDrugRecog" name_key="drugRecog" description_key="drugRecogDesc" icon="ui_game_symbol_candy_recog">
+	<buff name="buffDrugFortBites" name_key="drugFortBites" description_key="drugFortBitesDesc" icon="ui_game_symbol_candy_fortitude">
+	<buff name="buffDrugAtomJunkies" name_key="drugAtomJunkies" description_key="drugAtomJunkiesDesc" icon="ui_game_symbol_candy_atom_junkies">
+	<buff name="buffDrugCovertCats" name_key="drugCovertCats" description_key="drugCovertCatsDesc" icon="ui_game_symbol_candy_covert_cats">
+	<buff name="buffDrugEyeKandy" name_key="drugEyeKandy" description_key="drugEyeKandyDesc" icon="ui_game_symbol_candy_eye_candy">
+	<buff name="buffDrugHackers" name_key="drugHackers" description_key="drugHackersDesc" icon="ui_game_symbol_candy_hackers">
+	<buff name="buffDrugHealthBar" name_key="drugHealthBar" description_key="drugHealthBarDesc" icon="ui_game_symbol_candy_health_bar">
+	<buff name="buffDrugJailBreakers" name_key="drugJailBreakers" description_key="drugJailBreakersDesc" icon="ui_game_symbol_candy_jail_breakers">
+	<buff name="buffDrugNerdTats" name_key="drugNerdTats" description_key="drugNerdTatsDesc" icon="ui_game_symbol_candy_nerd_tats">
+	<buff name="buffDrugOhShitzDrops" name_key="drugOhShitzDrops" description_key="drugOhShitzDropsDesc" icon="ui_game_symbol_candy_oh_shitz">
+	<buff name="buffDrugRockBusters" name_key="drugRockBusters" description_key="drugRockBustersDesc" icon="ui_game_symbol_candy_rock_busters">
+	<buff name="buffDrugSkullCrushers" name_key="drugSkullCrushers" description_key="drugSkullCrushersDesc" icon="ui_game_symbol_candy_skull_crushers">
+	<buff name="buffDrugSugarButts" name_key="drugSugarButts" description_key="drugSugarButtsDesc" icon="ui_game_symbol_candy_sugar_butts">
+	<buff name="buffPowerAttackStaminaStunt" icon="ui_game_symbol_run" icon_color="255,128,0" hidden="true">
+	<buff name="buffHoldBreathAiming01" name_key="Aiming1" description_key="" tooltip_key="" icon="ui_game_symbol_all_blocks" hidden="true">
+	<buff name="buffDrawBow01" name_key="buffDrawBow01" icon="ui_game_symbol_all_blocks" hidden="true">
+	<buff name="buffReloadMovementPenalty" name_key="Reloading" icon="ui_game_symbol_pack_mule" icon_color="255,128,0" hidden="true">
+	<buff name="buffLegendaryBoss" name_key="Legendary Boss Buff Name" description_key="legendaryDesc" tooltip_key="na" icon="ui_game_symbol_skull">
+	<buff name="buffTazasWrath" name_key="buffTazasWrathName" description_key="buffTazasWrathDesc" tooltip_key="buffTazasWrathTooltip" icon="ui_game_symbol_skull">
+	<buff name="buffRingOfFire" name_key="buffRingOfFireName" description_key="buffRingOfFireDesc" icon="ui_game_symbol_fire" icon_color="200,200,0" remove_on_death="false">
+	<buff name="buffRingOfFireEffect" name_key="buffRingOfFireName" description_key="buffRingOfFireEffectDesc" tooltip_key="buffRingOfFireEffectDesc" icon="ui_game_symbol_fire" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffDontBreakMyLeg" hidden="true" remove_on_death="false">
+	<buff name="buffRadiatedRegen" name_key="buffRadiatedRegenDesc" description_key="buffRadiatedRegenDesc" tooltip_key="buffRadiatedRegenDesc" icon="ui_game_symbol_radiation" icon_color="255,0,0">
+	<buff name="buffRadiatedRegenBlock" name_key="buffRadiatedRegenBlockName" icon="ui_game_symbol_radiation" icon_color="255,255,0" hidden="true">
+	<buff name="buffHarvestXPBalance" name_key="buffHarvestXPBalanceName" icon="ui_game_symbol_radiation" icon_color="255,255,0" hidden="true">
+	<buff name="buffDontMove" hidden="true" remove_on_death="false">
+	<buff name="buffDummyEntitySuicide" name_key="buffDummyEntitySuicideName" icon="ui_game_symbol_radiation" hidden="true">
+	<buff name="buffCampfireAOE" hidden="true">
+	<!-- <buff name="buffCampfireAOEEffect" name_key="buffCampfireAOEEffectName" description_key="buffCampfireAOEEffectDesc" icon="ui_game_symbol_campfire"> -->
+	<buff name="buffTreasureHunterAOE" name_key="buffTreasureHunterAOEName" description_key="buffTreasureHunterAOEDesc" icon="ui_game_symbol_treasure">
+	<buff name="buffTreasureHunterAOEEnd" name_key="buffTreasureHunterAOEName" description_key="buffTreasureHunterAOEDesc" icon="ui_game_symbol_treasure">
+	<buff name="buffJunkDroneSupportEffect" name_key="modRoboticDroneMoraleBoosterMod" description_key="modRoboticDroneMoraleBoosterModDesc" icon="ui_game_symbol_assemble">
+	<buff name="buffJunkDroneHealCooldownEffect" name_key="modRoboticDroneModCooldown" description_key="modRoboticDroneModCooldownDesc" icon="ui_game_symbol_drone">
+	<buff name="buffInternalBleeding" name_key="buffInternalBleedingName" description_key="buffInternalBleedingDesc" tooltip_key="buffInternalBleedingTooltip" icon="ui_game_symbol_critical" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffHazard_Slow" hidden="true">
+	<buff name="buffBurnt_Storm" name_key="buffBurnt_StormName" description_key="buffBurnt_StormDesc" icon="ui_game_symbol_storm" icon_color="150,100,50" icon_blink="true">
+	<buff name="buffDesert_Storm" name_key="buffDesert_StormName" description_key="buffDesert_StormDesc" icon="ui_game_symbol_storm" icon_color="200,200,100" icon_blink="true">
+	<buff name="buffSnow_Storm" name_key="buffSnow_StormName" description_key="buffSnow_StormDesc" icon="ui_game_symbol_storm" icon_color="179,255,255" icon_blink="true">
+	<buff name="buffWasteland_Storm" name_key="buffWasteland_StormName" description_key="buffWasteland_StormDesc" icon="ui_game_symbol_storm" icon_color="100,255,100" icon_blink="true">
+	<buff name="buffBiomeProgressionCheck" hidden="true" required_game_stat="BiomeProgression">
+	<buff name="buffForest_Hazard" hidden="true" icon_color="0,128,0">
+	<buff name="buffBurnt_Hazard" hidden="true" icon_color="150,100,50" required_game_stat="BiomeProgression">
+	<buff name="buffBurnt_Hazard_Over" name_key="buffBurntOverName" description_key="buffBurntOverDesc" tooltip_key="buffBurntOverToolTip" icon="ui_game_symbol_campfire" icon_color="120,180,255">
+	<buff name="buffBurnt_Hazard_Recover" name_key="buffBurntRecoverName" description_key="buffBurntRecoverDesc" tooltip_key="buffBurntRecoverToolTip" icon="ui_game_symbol_campfire" icon_color="0,255,0">
+	<buff name="buffBurnt_Hazard01" name_key="buffBurnt01Name" description_key="buffBurnt01Desc" tooltip_key="buffBurnt01ToolTip" icon="ui_game_symbol_campfire" icon_color="255,128,0">
+	<buff name="buffBurnt_Hazard02" name_key="buffBurnt02Name" description_key="buffBurnt02Desc" tooltip_key="buffBurnt02ToolTip" icon="ui_game_symbol_campfire" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffDesert_Hazard" hidden="true" icon_color="200,200,0" required_game_stat="BiomeProgression">
+	<buff name="buffDesert_Hazard_Over" name_key="buffDesertOverName" description_key="buffDesertOverDesc" tooltip_key="buffDesertOverToolTip" icon="ui_game_symbol_hot" icon_color="120,180,255">
+	<buff name="buffDesert_Hazard_Recover" name_key="buffDesertRecoverName" description_key="buffDesertRecoverDesc" tooltip_key="buffDesertRecoverToolTip" icon="ui_game_symbol_hot" icon_color="0,255,0">
+	<buff name="buffDesert_Hazard01" name_key="buffDesert01Name" description_key="buffDesert01Desc" tooltip_key="buffDesert01ToolTip" icon="ui_game_symbol_hot" icon_color="255,128,0">
+	<buff name="buffDesert_Hazard02" name_key="buffDesert02Name" description_key="buffDesert02Desc" tooltip_key="buffDesert02ToolTip" icon="ui_game_symbol_hot" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffSnow_Hazard" hidden="true" icon_color="179,255,255" required_game_stat="BiomeProgression">
+	<buff name="buffSnow_Hazard_Over" name_key="buffSnowOverName" description_key="buffSnowOverDesc" tooltip_key="buffSnowOverToolTip" icon="ui_game_symbol_cold" icon_color="120,180,255">
+	<buff name="buffSnow_Hazard_Recover" name_key="buffSnowRecoverName" description_key="buffSnowRecoverDesc" tooltip_key="buffSnowRecoverToolTip" icon="ui_game_symbol_cold" icon_color="0,255,0">
+	<buff name="buffSnow_Hazard01" name_key="buffSnow01Name" description_key="buffSnow01Desc" tooltip_key="buffSnow01ToolTip" icon="ui_game_symbol_cold" icon_color="255,128,0">
+	<buff name="buffSnow_Hazard02" name_key="buffSnow02Name" description_key="buffSnow02Desc" tooltip_key="buffSnow02ToolTip" icon="ui_game_symbol_cold" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffWasteland_Hazard" hidden="true" icon_color="100,255,100" required_game_stat="BiomeProgression">
+	<buff name="buffWasteland_Hazard_Over" name_key="buffWastelandOverName" description_key="buffWastelandOverDesc" tooltip_key="buffWastelandOverToolTip" icon="ui_game_symbol_radiation" icon_color="120,180,255">
+	<buff name="buffWasteland_Hazard_Recover" name_key="buffWastelandRecoverName" description_key="buffWastelandRecoverDesc" tooltip_key="buffWastelandRecoverToolTip" icon="ui_game_symbol_radiation" icon_color="0,255,0">
+	<buff name="buffWasteland_Hazard01" name_key="buffWasteland01Name" description_key="buffWasteland01Desc" tooltip_key="buffWasteland01ToolTip" icon="ui_game_symbol_radiation" icon_color="255,128,0">
+	<buff name="buffWasteland_Hazard02" name_key="buffWasteland02Name" description_key="buffWasteland02Desc" tooltip_key="buffWasteland02ToolTip" icon="ui_game_symbol_radiation" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffHeadShotsOnly" name_key="buffHeadShotsOnlyName" description_key="buffHeadShotsOnlyDesc" tooltip_key="buffHeadShotsOnlyTooltip" icon="ui_game_symbol_head_shot" icon_color="255,128,0" remove_on_death="false">
+	<buff name="buffMeleePreferred" name_key="buffMeleePreferredName" description_key="buffMeleePreferredDesc" tooltip_key="buffMeleePreferredTooltip" icon="ui_game_symbol_melee" icon_color="0,255,0" remove_on_death="false">
+	<buff name="buffWatchYourAim" name_key="buffWatchYourAimName" description_key="buffWatchYourAimDesc" tooltip_key="buffWatchYourAimTooltip" icon="ui_game_symbol_rifle" icon_color="0,255,0" remove_on_death="false">
+	<buff name="twitch_cooldown" name_key="Twitch Cooldown" description_key="Cannot be targeted by Twitch Actions for the duration of the buff." icon="ui_game_symbol_twitch_action_disabled" icon_color="175,175,255">
+	<buff name="buffTwitchFlash" name_key="twitch Blink" icon="" icon_color="255,128,0" hidden="true">
+	<buff name="twitch_buffBlur" name_key="TwitchBuff_Blur" description_key="TwitchBuff_BlurDesc" icon="ui_game_symbol_twitch_vision_effects" icon_color="255,175,175">
+	<buff name="twitch_buffTrippy" name_key="TwitchBuff_Trippy" description_key="TwitchBuff_BlurDesc" icon="ui_game_symbol_twitch_vision_effects" icon_color="255,175,175">
+	<buff name="twitch_buffDistort" name_key="TwitchBuff_Distort" description_key="TwitchBuff_DistortDesc" icon="ui_game_symbol_twitch_vision_effects" icon_color="255,175,175">
+	<buff name="twitch_buffMonochrome" name_key="TwitchBuff_Greyscale" description_key="TwitchBuff_Greyscale" icon="ui_game_symbol_twitch_vision_effects" icon_color="255,175,175">
+	<buff name="twitch_buffPainting" name_key="TwitchBuff_Painting" description_key="TwitchBuff_PaintingDesc" icon="ui_game_symbol_twitch_vision_effects" icon_color="255,175,175">
+	<buff name="twitch_buffVisionAlt" name_key="TwitchBuff_VisionAlt" description_key="TwitchBuff_VisionAltDesc" icon="ui_game_symbol_twitch_vision_effects" icon_color="255,175,175">
+	<buff name="twitch_buffBlind" name_key="TwitchBuff_Blind" description_key="TwitchBuff_BlindDesc" icon="ui_game_symbol_twitch_vision_effects" icon_color="255,175,175">
+	<buff name="twitch_regen" name_key="TwitchBuff_Regen" description_key="TwitchBuff_RegenDesc" icon="ui_game_symbol_twitch_regen" icon_color="175,175,255">
+	<buff name="twitch_insta_regen" hidden="true">
+	<buff name="twitch_hurt" name_key="TwitchBuff_Hurt" description_key="TwitchBuff_HurtDesc" icon="ui_game_symbol_twitch_hurt" icon_color="255,175,175">
+	<buff name="twitch_buffFast" name_key="TwitchBuff_Fast" description_key="TwitchBuff_FastDesc" icon="ui_game_symbol_twitch_fast" icon_color="175,175,255">
+	<buff name="twitch_buffSlow" name_key="TwitchBuff_Slow" description_key="TwitchBuff_SlowDesc" icon="ui_game_symbol_twitch_slow" icon_color="255,175,175">
+	<buff name="twitch_buffJump" name_key="TwitchBuff_Jump" description_key="TwitchBuff_JumpDesc" icon="ui_game_symbol_twitch_jump" icon_color="175,175,255">
+	<buff name="twitch_buffWeakJump" name_key="TwitchBuff_BuffWeakJump" description_key="TwitchBuff_BuffWeakJumpDesc" icon="ui_game_symbol_twitch_jump" icon_color="255,175,175"
+	<buff name="twitch_energize" name_key="TwitchBuff_Energize" description_key="TwitchBuff_EnergizeDesc" icon="ui_game_symbol_twitch_energize" icon_color="175,175,255">
+	<buff name="twitch_voteEnergize" name_key="TwitchBuff_Energize" description_key="TwitchBuff_EnergizeDesc" icon="ui_game_symbol_twitch_energize" icon_color="175,175,255">
+	<buff name="twitch_buffToughness" name_key="TwitchBuff_Shield" description_key="TwitchBuff_ShieldDesc" icon="ui_game_symbol_twitch_tough" icon_color="175,175,255">
+	<buff name="twitch_buffVoteToughness" name_key="TwitchBuff_Shield" description_key="TwitchBuff_ShieldDesc" icon="ui_game_symbol_twitch_tough" icon_color="175,175,255">
+	<buff name="twitch_buffBoostMelee" name_key="TwitchBuff_BoostMelee" description_key="TwitchBuff_BoostMeleeDesc" icon="ui_game_symbol_twitch_strength_melee" icon_color="175,175,255">
+	<buff name="twitch_buffBoostRange" name_key="TwitchBuff_BoostRange" description_key="TwitchBuff_BoostRangeDesc" icon="ui_game_symbol_twitch_strength_ranged" icon_color="175,175,255">
+	<buff name="twitch_buffWeakenMelee" name_key="TwitchBuff_WeakenMelee" description_key="TwitchBuff_WeakenMelee" icon="ui_game_symbol_twitch_weaken_melee" icon_color="255,175,175">
+	<buff name="twitch_buffNoMelee" name_key="TwitchBuff_NoMelee" description_key="TwitchBuff_NoMeleeDesc" icon="ui_game_symbol_twitch_no_melee" icon_color="255,175,175">
+	<buff name="twitch_buffWeakenRanged" name_key="TwitchBuff_WeakenRange" description_key="TwitchBuff_WeakenRangeDesc" icon="ui_game_symbol_twitch_weaken_ranged" icon_color="255,175,175">
+	<buff name="twitch_buffNoRanged" name_key="TwitchBuff_NoRange" description_key="TwitchBuff_NoRangeDesc" icon="ui_game_symbol_twitch_no_ranged" icon_color="255,175,175">
+	<buff name="twitch_buffShieldEnemies" name_key="TwitchBuff_ShieldEnemies" description_key="TwitchBuff_ShieldEnemiesDesc" icon="ui_game_symbol_twitch_shield_enemies" icon_color="255,175,175"
+	<buff name="twitch_buffNoExplosives" name_key="TwitchBuff_NoExplosives" description_key="TwitchBuff_NoExplosivesDesc" icon="ui_game_symbol_twitch_no_explosives" icon_color="255,175,175">
+	<buff name="twitch_buffNoRobo" name_key="TwitchBuff_NoRobo" description_key="TwitchBuff_NoRoboDesc" icon="ui_game_symbol_twitch_no_turret" icon_color="255,175,175">
+	<buff name="twitch_buffNoVehicle" name_key="TwitchBuff_NoVehicle" description_key="TwitchBuff_NoVehicleDesc" icon="ui_game_symbol_twitch_no_vehicle" icon_color="255,175,175">
+	<buff name="twitch_buffVoteNoVehicle" name_key="TwitchBuff_NoVehicle" description_key="TwitchBuff_NoVehicleDesc" icon="ui_game_symbol_twitch_no_vehicle" icon_color="255,175,175">
+	<buff name="twitch_buffNoStealth" name_key="TwitchBuff_NoStealth" description_key="TwitchBuff_NoStealthDesc" icon="ui_game_symbol_twitch_no_stealth" icon_color="255,175,175">
+	<buff name="twitch_buffNoStealthTimer" icon="ui_game_symbol_twitch_no_stealth" icon_color="255,175,175" hidden="true">
+	<buff name="twitch_blastresist" hidden="true" name_key="BlastResist" icon="ui_game_symbol_zombie" icon_color="175,175,255">
+	<buff name="twitch_buffLeech" name_key="TwitchBuff_Leech" description_key="TwitchBuff_LeechDesc" icon="ui_game_symbol_twitch_leech" icon_color="175,175,255">
+	<buff name="twitch_buffLeechHeal" hidden="true">
+	<buff name="twitch_buffLeechSound" hidden="true">
+	<buff name="twitch_buffAntiLeech" name_key="TwitchBuff_AntiLeech" description_key="TwitchBuff_AntiLeechDesc" icon="ui_game_symbol_twitch_anti_leech" icon_color="255,175,175">
+	<buff name="twitch_buffDontMiss" name_key="TwitchBuff_DontMiss" description_key="TwitchBuff_DontMissDesc" icon="ui_game_symbol_twitch_dont_miss" icon_color="255,175,175">
+	<buff name="twitch_buffAntiLeechDamage" hidden="true">
+	<buff name="twitch_buffAntiLeechSound" hidden="true">
+	<buff name="twitch_buffKeepMoving" name_key="TwitchBuff_KeepMoving" description_key="TwitchBuff_KeepMovingDesc" icon="ui_game_symbol_twitch_keep_moving" icon_color="255,175,175">
+	<buff name="twitch_buffNoDriving" name_key="TwitchBuff_NoVehicle" description_key="TwitchBuff_NoVehicleDesc" icon="ui_game_symbol_twitch_no_vehicle" icon_color="255,175,175">
+	<buff name="twitch_voteNoDriving" name_key="TwitchBuff_NoVehicle" description_key="TwitchBuff_NoVehicleDesc" icon="ui_game_symbol_twitch_no_vehicle" icon_color="255,175,175">
+	<buff name="twitch_buffNoHealingManager" name_key="TwitchBuff_NoHealingManager" description_key="TwitchBuff_NoHealingManagerDesc" icon="ui_game_symbol_twitch_keep_moving" hidden="true">
+	<buff name="twitch_voteNoSafe" name_key="TwitchBuff_NoSafe" description_key="TwitchBuff_NoSafeDesc" icon="ui_game_symbol_brick" icon_color="255,175,175">
+	<buff name="twitch_buffNoTrader" name_key="TwitchBuff_NoTrader" description_key="TwitchBuff_NoTraderDesc" icon="ui_game_symbol_talk" icon_color="255,175,175"
+	<buff name="twitch_buffStayStill" name_key="TwitchBuff_StayStill" description_key="TwitchBuff_StayStillDesc" icon="ui_game_symbol_twitch_stay_still" icon_color="175,175,255">
+	<buff name="twitch_buffHeadshotOnly" name_key="TwitchBuff_HeadshotOnly" description_key="TwitchBuff_HeadshotOnlyDesc" icon="ui_game_symbol_twitch_headshot" icon_color="255,175,175">
+	<buff name="twitch_buffConfused" name_key="TwitchBuff_Confused" description_key="TwitchBuff_ConfusedDesc" icon="ui_game_symbol_twitch_confused_controls" icon_color="255,175,175">
+	<buff name="twitch_buffCelebrate" name_key="TwitchBuff_Celebrate" description_key="TwitchBuff_CelebrateDesc" icon="ui_game_symbol_twitch_celebrate" icon_color="175,175,255">
+	<buff name="twitch_buffVoteCelebrate" name_key="TwitchBuff_Celebrate" description_key="TwitchBuff_CelebrateDesc" icon="ui_game_symbol_twitch_celebrate" icon_color="175,175,255">
+	<buff name="twitch_buffSillySounds" name_key="TwitchBuff_SillySounds" description_key="TwitchBuff_SillySoundsDesc" icon="ui_game_symbol_twitch_sound_effects" icon_color="175,175,255">
+	<buff name="twitch_voteSillySounds" name_key="TwitchBuff_SillySounds" description_key="TwitchBuff_SillySoundsDesc" icon="ui_game_symbol_twitch_sound_effects" icon_color="175,175,255">
+	<buff name="buffSillyHidden" hidden="true">
+	<buff name="twitch_buffDeafen" name_key="TwitchBuff_Deafen" description_key="TwitchBuff_DeafenDesc" icon="ui_game_symbol_twitch_deafen" icon_color="255,175,175">
+	<buff name="twitch_buffVoteDeafen" name_key="TwitchBuff_Deafen" description_key="TwitchBuff_DeafenDesc" icon="ui_game_symbol_twitch_deafen" icon_color="255,175,175">
+	<buff name="twitch_buffVoteJumbledBackpack" name_key="TwitchBuff_JumbledBackpack" description_key="TwitchBuff_JumbledBackpackDesc" icon="ui_game_symbol_twitch_backpack_jumble" icon_color="255,175,175">
+	<buff name="twitch_buffActionJumbledBackpack" name_key="TwitchBuff_JumbledBackpack" description_key="TwitchBuff_JumbledBackpackDesc" icon="ui_game_symbol_twitch_backpack_jumble" icon_color="255,175,175"
+	<buff name="twitch_buffBigHead" name_key="TwitchBuff_BigHead" description_key="TwitchBuff_BigHeadDesc" icon="ui_game_symbol_twitch_big_head" icon_color="255,175,175"
+	<buff name="twitch_buffDance" name_key="TwitchBuff_Dance" description_key="TwitchBuff_DanceDesc" icon="ui_game_symbol_twitch_dancing" icon_color="255,175,175"
+	<buff name="twitch_buffBucketHead" name_key="TwitchBuff_BucketHead" description_key="TwitchBuff_BucketHeadDesc" icon="ui_game_symbol_twitch_buckethead" icon_color="255,175,175"
+	<buff name="twitch_buffTinyZombies" name_key="TwitchBuff_TinyZombies" description_key="TwitchBuff_TinyZombiesDesc" icon="ui_game_symbol_twitch_small_zombies" icon_color="255,175,175"
+	<buff name="twitch_buffNoHelp" name_key="TwitchBuff_NoHelp" description_key="TwitchBuff_NoHelpDesc" icon="ui_game_symbol_twitch_no_help" icon_color="255,175,175"
+	<buff name="twitch_buffDoubleSpawns" name_key="TwitchBuff_DoubleSpawns" description_key="TwitchBuff_DoubleSpawnsDesc" icon="ui_game_symbol_allies" icon_color="255,175,175"
+	<buff name="twitch_buffTougherEnemies" name_key="TwitchBuff_TougherEnemies" description_key="TwitchBuff_TougherEnemiesDesc" icon="ui_game_symbol_trex" icon_color="255,175,175"
+	<buff name="twitch_buffCrappyLoot" name_key="TwitchBuff_CrappyLoot" description_key="TwitchBuff_CrappyLootDesc" icon="ui_game_symbol_twitch_crap_loot" icon_color="255,175,175"
+	<buff name="twitch_buffHomeRun" name_key="TwitchBuff_HomerunDerby" description_key="TwitchBuff_HomerunDerbyDesc" icon="ui_game_symbol_twitch_homerun_derby" icon_color="175,175,255"
+	<buff name="twitch_buffHomeRunEnding" name_key="TwitchBuff_HomerunDerby" description_key="TwitchBuff_HomerunDerbyDesc" icon="ui_game_symbol_twitch_big_head" icon_color="175,175,255" hidden="true"
+	<buff name="twitch_voteNourish" name_key="TwitchBuff_Nourishment" description_key="TwitchBuff_NourishmentDesc" icon="ui_game_symbol_stomach" icon_color="175,175,255">
+	<buff name="twitch_spoil" hidden="true">
+	<buff name="buffTwitchDontBreakLeg" hidden="true">
+	<buff name="twitch_buffNoClaim" name_key="TwitchBuff_NoClaim" description_key="TwitchBuff_NoClaimDesc" icon="ui_game_symbol_twitch_no_placing_land_claim" icon_color="255,175,175">
+	<buff name="twitch_buffClumsyRunner" name_key="TwitchBuff_ClumsyRunner" description_key="TwitchBuff_ClumsyRunnerDesc" icon="ui_game_symbol_parkour" icon_color="255,175,175"
+	<buff name="twitch_voteResourceful" name_key="TwitchBuff_Resourceful" description_key="TwitchBuff_ResourcefulDesc" icon="ui_game_symbol_resource" icon_color="175,175,255">
+	<buff name="twitch_buffHarvester" description="+Harvesting" icon="ui_game_symbol_resource" icon_color="175,175,255">
+	<buff name="twitch_buffBadHarvester" description="-Harvesting" icon="ui_game_symbol_resource" icon_color="255,175,175">
+	<buff name="twitch_buffLearner" description="+XP" icon="ui_game_symbol_skills" icon_color="175,175,255">
+	<buff name="twitch_buffBadLearner" description="-XP" icon="ui_game_symbol_skills" icon_color="255,175,175">
+	<buff name="twitch_buffCrafter" description="+Crafting Speed" icon="ui_game_symbol_hammer" icon_color="175,175,255">
+	<buff name="twitch_buffBadCrafter" description="-Crafting Speed" icon="ui_game_symbol_hammer" icon_color="255,175,175">
+	<buff name="twitch_buffLooter" description="+Loot GS" icon="ui_game_symbol_shopping_cart" icon_color="175,175,255">
+	<buff name="twitch_buffBadLooter" description="-Loot GS" icon="ui_game_symbol_shopping_cart" icon_color="255,175,175">
+	<buff name="twitch_buffBarterer" description="+Bartering" icon="ui_game_symbol_barter" icon_color="175,175,255">
+	<buff name="twitch_buffBadBarterer" description="-Bartering" icon="ui_game_symbol_barter" icon_color="255,175,175">
+	<buff name="twitch_buffAutoPull" name_key="TwitchBuff_AutoPull" description_key="TwitchBuff_AutoPullDesc" icon="ui_game_symbol_twitch_autopull" icon_color="255,175,175"
+	<buff name="twitch_buffBonusPP" name_key="TwitchBuff_PPBonanza" description_key="TwitchBuff_PPBonanzaDesc" icon="ui_game_symbol_twitch_PP_bonanza" icon_color="175,175,255" remove_on_death="false">
+	<buff name="twitch_buffInfiniteAmmo" name_key="TwitchBuff_InfiniteAmmo" description_key="TwitchBuff_InfiniteAmmoDesc" icon="ui_game_symbol_twitch_infinite_ammo" icon_color="175,175,255"
+	<buff name="twitch_buffCritImmune" name_key="TwitchBuff_CritImmune" description_key="TwitchBuff_CritImmuneDesc" icon="ui_game_symbol_twitch_crit_immune" icon_color="175,175,255"
+	<buff name="twitch_buffNoTime" name_key="TwitchBuff_NoTime" description_key="TwitchBuff_NoTimeDesc" icon="ui_game_symbol_twitch_no_time" icon_color="255,175,175"
+	<buff name="twitch_buffNoRunning" name_key="TwitchBuff_NoRunning" description_key="TwitchBuff_NoRunningDesc" icon="ui_game_symbol_run" icon_color="255,175,175"
+	<buff name="twitch_buffUnlockActions" name_key="TwitchBuff_UnlockActions" description_key="TwitchBuff_UnlockActionsDesc" icon="ui_game_symbol_twitch_progression" icon_color="255,175,175"
+	<buff name="twitch_buffResurrect" name_key="Resurrect" description_key="ResurrectDesc" icon="ui_game_symbol_twitch_resurrect" icon_color="255,175,175"
+	<buff name="twitch_bighead" remove_on_death="false">
+	<buff name="twitch_dance">
+	<buff name="twitch_tiny" remove_on_death="false">
+	<buff name="twitch_recent_rez" remove_on_death="false">
+	<buff name="twitch_hordestone_zombie" remove_on_death="false">
+	<buff name="twitch_boss">
+	<buff name="twitch_minion">
+	<buff name="twitch_boss_nav">
+	<buff name="twitch_minion_nav">
+	<buff name="twitch_weapon_pistols">
+	<buff name="twitch_weapon_shotguns">
+	<buff name="twitch_weapon_rifles">
+	<buff name="twitch_weapon_machinegunner">
+	<buff name="twitch_weapon_bows">
+	<buff name="twitch_immortal_boss">
+	<buff name="twitch_immortal_minion">
+	<buff name="twitch_give_navobject">
+	<buff name="twitch_buffed_tough">
+	<buff name="twitch_tough1">
+	<buff name="twitch_tough2">
+	<buff name="twitch_tough3">
+	<buff name="twitch_tough4">
+	<buff name="twitch_tough5">
+	<buff name="twitch_enemyshock">
+	<buff name="twitch_enemyrad">
+	<buff name="twitch_enemyburn">
+	<buff name="buffTwitchShocked" description_key="buffShockedDesc" tooltip_key="buffShockedTooltip" icon="ui_game_symbol_electric_power" name_key="buffShockedName" icon_color="255,0,0">
+	<buff name="twitch_shock_slowdown" hidden="true">
+	<buff name="buffTwitchRadiation" name_key="buffRadiation03Name" description_key="buffRadiation03Desc" icon="ui_game_symbol_radiation" icon_color="255,0,0" icon_blink="true">
+	<buff name="buffTwitchBurn" name_key="buffIsOnFireName" description_key="buffIsOnFireDesc" tooltip_key="buffIsOnFireTooltip" icon="ui_game_symbol_fire" icon_color="255,0,0" icon_blink="true">
+	<buff name="test_defense_minion">
+	<buff name="twitch_explode">
+	<buff name="twitch_buckethead">
+	<buff name="twitch_safe" name_key="buffTwitchSafeName" description_key="buffTwitchSafeDesc" icon="ui_game_symbol_brick" icon_color="175,175,255"
+	<buff name="twitch_pausedbuffs" name_key="buffPausedBuffsName" description_key="buffPausedBuffsDesc" icon="ui_game_symbol_twitch_buffs_paused" icon_color="255,175,175"
+	<buff name="twitch_pausedspawns" name_key="buffPausedSpawnsName" description_key="buffPausedSpawnsDesc" icon="ui_game_symbol_twitch_spawns_paused" icon_color="255,175,175"
+	<buff name="twitch_extensionneeded" name_key="buffTwitchExtensionNeededName" description_key="buffTwitchExtensionNeededDesc" icon="ui_game_symbol_twitch_disconnected" icon_color="255,175,175"
+	<buff name="twitch_buffXPGain" name_key="TwitchBuff_XPGain" description_key="TwitchBuff_XPGainDesc" icon="ui_game_symbol_skills" icon_color="175,175,255"
+	<buff name="twitch_buffBrainFog" name_key="TwitchBuff_Newbie" description_key="TwitchBuff_NewbieDesc" icon="ui_game_symbol_twitch_newbie" icon_color="255,175,175"
+	<buff name="twitch_buffSilentActions" name_key="TwitchBuff_SilentActions" description_key="TwitchBuff_SilentActionsDesc" icon="ui_game_symbol_twitch_silent_actions" icon_color="255,175,175"
+	<buff name="twitch_buffPackMule" name_key="TwitchBuff_PackMule" description_key="TwitchBuff_PackMuleDesc" icon="ui_game_symbol_twitch_pack_mule_plus" icon_color="175,175,255"
+	<buff name="twitch_buffEncumbered" name_key="TwitchBuff_Encumbered" description_key="TwitchBuff_EncumberedDesc" icon="ui_game_symbol_pack_mule" icon_color="255,175,175"
+	<buff name="twitch_rain" name_key="TwitchBuff_Rain" description_key="TwitchBuff_RainDesc" icon="ui_game_symbol_twitch_spawn_rain" icon_color="255,175,175"
+	<buff name="twitch_snow" name_key="TwitchBuff_Snow" description_key="TwitchBuff_SnowDesc" icon="ui_game_symbol_twitch_spawn_snow" icon_color="255,175,175"
+	<buff name="twitch_fog" name_key="TwitchBuff_Fog" description_key="TwitchBuff_FogDesc" icon="ui_game_symbol_twitch_spawn_fog" icon_color="255,175,175"
+	<buff name="twitch_storm" name_key="TwitchBuff_Thunderstorm" description_key="TwitchBuff_ThunderstormDesc" icon="ui_game_symbol_twitch_spawn_storm" icon_color="255,175,175"
+	<buff name="twitch_nopickup" name_key="TwitchBuff_NoPickup" description_key="TwitchBuff_NoPickupDesc" icon="ui_game_symbol_twitch_cant_pickup" icon_color="255,175,175">
+	<buff name="buffDemoTimerStart" name_key="demoTimerStart" description_key="demoTimerStartDesc" icon="ui_game_symbol_clock" remove_on_death="false">
+	<buff name="buffDemoTimerHalfTime" name_key="demoTimerStart" description_key="demoTimerStartDesc" icon="ui_game_symbol_clock" icon_color="255,128,0" remove_on_death="false">
+	<buff name="buffDemoTimerEndWarning" name_key="demoTimerStart" description_key="demoTimerStartDesc" icon="ui_game_symbol_clock" icon_color="255,0,0" icon_blink="true" remove_on_death="false">
+	<buff name="buffDemoTimerEnd" name_key="demoTimerStart" description_key="demoTimerStartDesc" icon="ui_game_symbol_clock" icon_color="255,0,0" icon_blink="true" remove_on_death="false">
+	<buff name="buffShowQuestLimitReached" name_key="buffShowQuestLimitReachedName" description_key="buffShowQuestLimitReachedDesc" icon="ui_game_symbol_quest_limited" icon_color="255,0,0" remove_on_death="false">
+BuffResistance;  tags references a buff name, at .4 on  "buffInjuryConcussion,buffBurning" you have a 40% chance for either buff to bounce instead of taking hold
