@@ -132,6 +132,7 @@ giveselfxp 500  \\ 加经验
 | resourceNail                    |       钉子        |
 | resourceBuckshot                |        鹿弹        |
 | resourceFishingWeight          |        铅锤          |
+| resourceScopeLen              |      瞄准镜镜片        |
 
 </details>
 
