@@ -250,6 +250,7 @@ giveselfxp 500  \\ 加经验
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
 |  tier02Enforcer01              |   警察套装    |
+|  tier06Farmer01                |   农民套装    |
 | ringOfFireAdmin                |   开发：火焰环  |
 
 </details>
