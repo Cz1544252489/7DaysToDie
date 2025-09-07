@@ -170,6 +170,20 @@ giveselfxp 500  \\ 加经验
 
 </details>
 
+
+<details>
+  <summary>饮品</summary>
+
+|         item name             |     物品      |
+| ----------------------------  | ------------ |
+| rinkJarBoiledWater            |   一罐水      |
+| drinkJarCoffee                |   咖啡        |
+| drinkJarBlackStrapCoffee      |   黑带咖啡    |
+| drinkJarBeer                  |   蜂蜜        |
+| drinkJarRedTea                |    红茶        |
+
+</details>
+
 ### 交换物
 
 <details>
