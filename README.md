@@ -151,6 +151,7 @@ giveselfxp 500  \\ 加经验
 | medicalFirstAidKit            |  急救包      |
 | drugAntibiotics                |  抗生素      |
 | drugVitamins                  |  维生素        |
+| drugSteroids                  |   类固醇      |
 
 </details>
 
