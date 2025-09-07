@@ -197,7 +197,6 @@ giveselfxp 500  \\ 加经验
 | vehiclesSkillMagazine        |  交通工具书    |
 
 </details>
-modGunBarrelExtenderSchematic
 
 <details>
   <summary>设计图</summary>
