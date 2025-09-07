@@ -33,7 +33,10 @@ giveselfxp 500  \\ 加经验
 
 
 
-### 近战武器
+### 武器
+
+<details>
+<summary>近战武器</summary>
 
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
@@ -46,8 +49,11 @@ giveselfxp 500  \\ 加经验
 | meleeWpnSpearT3SteelSpear      |   钢矛       |
 | meleeWpnSledgeT3SteelSledgehammer | 钢质大锤   |
 | meleeWpnKnucklesT3SteelKnuckles  | 钢指虎     |
+  
+</details>
 
-### 热武器
+<details>
+<summary> 热武器 </summary>
 
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
@@ -57,7 +63,10 @@ giveselfxp 500  \\ 加经验
 | gunMGT1AK47                    |  AK47        |
 | gunMGT3M60                     |  M60          |
 
-### 子弹包和投掷武器
+</details>
+
+<details>
+<summary>子弹包和投掷武器</summary>
 
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
@@ -67,8 +76,12 @@ giveselfxp 500  \\ 加经验
 | thrownGrenadeContact          |    手雷        |
 | thrownDynamite                |   柱状炸药      |
 
+</details>
 
-### 资源包
+### 资源
+
+<details>
+  <summmary>资源包</summmary>
 
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
@@ -82,6 +95,14 @@ giveselfxp 500  \\ 加经验
 | ammoGasCanBundle              |   汽油罐堆      |
 | resourceGunPowderBundle        |   一堆火药      |
 | resourceAcid                    |  一瓶酸液     |
+  
+</details>
+
+<details>
+  <summary>其他资源</summary>
+
+|         item name             |     物品      |
+| ----------------------------  | ------------ |
 | resourceForgedIron              |   锻铁        |
 | esourceMetalPipe              |    铁管          |
 | resourceForgedSteel            |    锻钢        |
@@ -110,18 +131,35 @@ giveselfxp 500  \\ 加经验
 | resourceBuckshot                |        鹿弹        |
 | resourceFishingWeight          |        铅锤          |
 
+</details>
 
 ### 医疗物资和食物
+
+<details>
+  <summary>医疗物资</summary>
 
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
 | medicalFirstAidKit            |  急救包      |
 | drugAntibiotics                |  抗生素      |
 | drugVitamins                  |  维生素        |
+
+</details>
+
+<details>
+  <summary>食物</summary>
+
+|         item name             |     物品      |
+| ----------------------------  | ------------ |
 | foodFishTacos                  |  鱼肉塔克      |
 | foodHoboStew                   |  蔬菜炖肉      |
 
+</details>
+
 ### 交换物
+
+<details>
+  <summary>货币等</summary>
 
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
@@ -131,7 +169,12 @@ giveselfxp 500  \\ 加经验
 | casinoCoin                    |   货币          |
 | oldCash                        |    旧货币      |
 
+</details>
+
 ### 机械
+
+<details>
+  <summary>工业机械</summary>
 
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
@@ -139,20 +182,30 @@ giveselfxp 500  \\ 加经验
 | carBattery                    |    汽车电池    |
 | solarCell                      |   太阳能电池  |
 
+</details>
+
 ### 技能书
+
+<details>
+  <summary>书籍</summary>
 
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
 | workstationSkillMagazine      |  锻造指南    |
 | vehiclesSkillMagazine        |  交通工具书    |
 
-### 套装
+</details>
+
+### 服装
+
+<details>
+  <summary>套装</summary>
 
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
 |  tier02Enforcer01              |   警察套装    |
 
-
+</details>
 
 
 
