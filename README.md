@@ -186,15 +186,30 @@ giveselfxp 500  \\ 加经验
 
 </details>
 
-### 技能书
+### 书籍
 
 <details>
-  <summary>书籍</summary>
+  <summary>技能书</summary>
 
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
 | workstationSkillMagazine      |  锻造指南    |
 | vehiclesSkillMagazine        |  交通工具书    |
+
+</details>
+modGunBarrelExtenderSchematic
+
+<details>
+  <summary>设计图</summary>
+
+|         item name             |     物品      |
+| ----------------------------  | ------------ |
+| modGunBarrelExtenderSchematic  |  枪管延伸模组设计图    |
+| modGunFlashlightSchematic     |  武器照明模组设计图    |
+| modGunScopeSmallSchematic    |  2倍镜设计图      |
+| modGunScopeMediumSchematic    |  4倍镜设计图    |
+| modGunScopeLargeSchematic    |  8倍镜设计图      |
+
 
 </details>
 
