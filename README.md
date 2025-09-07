@@ -33,7 +33,7 @@ giveselfxp 500  \\ 加经验
 
 
 
-### 武器
+### <span style="color:red">武器</span>
 
 <details>
 <summary>近战武器</summary>
