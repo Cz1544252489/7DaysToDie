@@ -130,6 +130,7 @@ giveselfxp 500  \\ 加经验
 | resourceMechanicalParts        |      机械零件        |
 | resourceSpring                  |      弹簧          |
 | resourceGlue                  |       胶水          |
+| resourceOil                   |      机油          |
 | resourceDuctTape              |        胶带        |
 | resourceFeather                |        羽毛        |
 | resourceNail                    |       钉子        |
