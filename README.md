@@ -17,7 +17,7 @@ giveselfxp 500  \\ 加经验
 
 |         item name             |     物品     |
 | ----------------------------  | ------------ |
-| meleeToolRepairT0StoneAxe     |    <span style="color:red">石斧头</span>     |
+| meleeToolRepairT0StoneAxe     |   石斧头      |
 | meleeToolRepairT0TazasStoneAxe|   塔萨的石斧  |
 | meleeToolRepairT1ClawHammer   |   羊角锤     |
 | meleeToolRepairT3Nailgun      |   钉枪       |
