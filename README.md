@@ -36,7 +36,7 @@ giveselfxp 500  \\ 加经验
 ### 武器
 
 <details>
-<summary><span style="color:red">近战武器</span></summary>
+<summary>近战武器</summary>
 
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
