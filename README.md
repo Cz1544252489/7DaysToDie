@@ -81,7 +81,7 @@ giveselfxp 500  \\ 加经验
 ### 资源
 
 <details>
-  <summmary>资源包</summmary>
+  <summary>资源包</summary>
 
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
