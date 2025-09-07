@@ -12,6 +12,10 @@ giveselfxp 500  \\ 加经验
 
 ### 工具
 
+<details>
+  111
+</details>
+
 |         item name             |     物品     |
 | ----------------------------  | ------------ |
 | meleeToolRepairT0StoneAxe     |    石斧头     |
