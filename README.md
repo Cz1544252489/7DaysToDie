@@ -159,6 +159,8 @@ giveselfxp 500  \\ 加经验
 | ----------------------------  | ------------ |
 | foodFishTacos                  |  鱼肉塔克      |
 | foodHoboStew                   |  蔬菜炖肉      |
+| foodCropMushrooms              |   蘑菇        |
+| foodCropMushroomsRadiated      |   辐射蘑菇    |
 
 </details>
 
