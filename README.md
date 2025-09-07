@@ -168,6 +168,8 @@ giveselfxp 500  \\ 加经验
 | foodHoboStew                   |  蔬菜炖肉      |
 | foodCropMushrooms              |   蘑菇        |
 | foodCropMushroomsRadiated      |   辐射蘑菇    |
+| foodPumpkinBread               |   南瓜面包    |
+| foodCornBread                  |   玉米面包    |
 
 </details>
 
@@ -248,6 +250,7 @@ giveselfxp 500  \\ 加经验
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
 |  tier02Enforcer01              |   警察套装    |
+| ringOfFireAdmin                |   开发：火焰环  |
 
 </details>
 
