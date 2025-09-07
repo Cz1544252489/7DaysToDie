@@ -136,6 +136,7 @@ giveselfxp 500  \\ 加经验
 | resourceBuckshot                |        鹿弹        |
 | resourceFishingWeight          |        铅锤          |
 | resourceScopeLens              |      瞄准镜镜片        |
+| resourceCropCottonPlant        |      棉花          |
 
 </details>
 
