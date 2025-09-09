@@ -156,6 +156,18 @@ giveselfxp 500  \\ 加经验
 | drugAntibiotics                |  抗生素      |
 | drugVitamins                  |  维生素        |
 | drugSteroids                  |   类固醇      |
+| drugCovertCats                |   隐蔽的猫    |
+| drugEyeKandy                  |   寻宝眼药水   |
+| drugHackers                    |   黑客        |
+| drugHealthBar                  |   能量棒      |
+| drugJailBreakers              |    越狱者      |
+| drugNerdTats                  |    学霸刺青    |
+| drugOhShitzDrops              |    该死的坠落   |
+| drugRockBusters               |    岩石克星    |
+| drugSkullCrushers              |   头骨粉碎者  |
+| drugSugarButts                |    烟蒂糖      |
+
+
 
 </details>
 
