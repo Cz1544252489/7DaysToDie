@@ -250,6 +250,8 @@ giveselfxp 500  \\ 加经验
 | modGunScopeMediumSchematic    |  4倍镜设计图    |
 | modGunScopeLargeSchematic    |  8倍镜设计图      |
 | modArmorQuadStoragePocketSchematic |  护甲四收纳口袋模组设计图 |
+| modGunLaserSightSchematic        |   激光瞄准器模组设计图  |
+| modGunMeleeRadRemoverSchematic  |    辐射去除模组设计图    |
 
 
 </details>
