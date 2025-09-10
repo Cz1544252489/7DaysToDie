@@ -76,6 +76,8 @@ giveselfxp 500  \\ 加经验
 | ammoBundle9mmBulletBall        |  9毫米子弹包  |
 | ammoBundle762mmBulletBall      |  7.62毫米子弹 |
 | ammoBundle44MagnumBulletBall  |   .44马格南子弹 |
+| ammoBundleArrowSteelAP        |   一盒钢箭    |
+| ammoBundleArrowIron            |  一盒铁箭    |
 | ammoBundleShotgunShell        |   霰弹枪子弹包  |
 | thrownAmmoPipeBomb            |   管状手雷      |
 | thrownGrenadeContact          |    触式手雷     |
