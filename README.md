@@ -114,7 +114,7 @@ giveselfxp 500  \\ 加经验
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
 | resourceForgedIron              |   锻铁        |
-| esourceMetalPipe              |    铁管          |
+| resourceMetalPipe              |    铁管          |
 | resourceForgedSteel            |    锻钢        |
 | resourceScrapPolymers          |    废聚合物    |
 | resourceSewingKit              |    针线包      |
