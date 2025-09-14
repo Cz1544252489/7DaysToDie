@@ -65,6 +65,11 @@ giveselfxp 500  \\ 加经验
 | gunMGT2TacticalAR              |  战术突击步枪 |
 | gunMGT1AK47                    |  AK47        |
 | gunMGT3M60                     |  M60          |
+| gunBowT0PrimitiveBow            |  传统弓       |
+| gunBowT1WoodenBow              |  木弓          |
+| gunBowT3CompoundBow            |  复合弓        |
+| gunBowT1IronCrossbow           |  铁弩          |
+| gunBowT3CompoundCrossbow       |  复合弩        |
 
 </details>
 
