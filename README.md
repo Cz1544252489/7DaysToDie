@@ -190,6 +190,15 @@ giveselfxp 500  \\ 加经验
 | foodCropMushroomsRadiated      |   辐射蘑菇    |
 | foodPumpkinBread               |   南瓜面包    |
 | foodCornBread                  |   玉米面包    |
+| foodPumpkinPie                  |   南瓜派      |
+| foodCropBlueberries            |   蓝莓        |
+| foodCropCorn                  |    玉米穗      |
+| foodCropGraceCorn              |   超级玉米穗   |
+| foodCropPotato                  |  土豆        |
+| foodCropYuccaFruit              |  兰丝果实    |
+| foodCropPumpkin                 |  南瓜        |
+| foodRawMeat                     |  生肉        |
+
 
 </details>
 
