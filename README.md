@@ -253,6 +253,25 @@ giveselfxp 500  \\ 加经验
 | ----------------------------  | ------------ |
 | workstationSkillMagazine      |  锻造指南    |
 | vehiclesSkillMagazine        |  交通工具书    |
+| bookGreatHeistGems            |  大劫掠第二卷  |
+| bookArtOfMiningCoffee         |  采矿的艺术第三卷 |
+| bookSniperDamag                | 狙击手第一卷    |
+| bookAutoWeaponsDamage         |  自动武器指导手册第一卷  |
+| bookUrbanCombatLanding        |  城市作战第一卷   |
+| bookTechJunkie1Damage         |  科技迷第一卷      |
+| bookBarBrawling1BasicMoves    |  酒吧斗殴第一卷   |
+| bookSpearHunter1Damage        |  掷矛猎人第一卷    |
+| bookShotgunMessiahDamage      |  霰弹枪救星第一卷  |
+| bookPistolPeteTakeAim         |  手枪皮特第一卷    |
+| bookRangersArrowRecovery      |  游侠箭术指南第一卷 |
+| bookHuntingJournalBears       |  猎人日记第一卷     |
+| bookWasteTreasuresHoney       |  荒野宝藏第一卷     |
+| bookSledgeSagaKnockdown       |  大锤传奇第一卷     |
+| bookBatterUpBigHits           |  一击破坏第一卷     |
+| bookEnforcerDamage            |  马格南警官第一卷   |
+| bookLuckyLooterDukes          |  幸运掠夺者第一卷    |
+| bookNightStalkerStealthDamage  |  夜行者第一卷      |
+| bookFiremansAlmanacHeat        |  消防员年鉴第一卷   |
 
 </details>
 
