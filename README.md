@@ -288,6 +288,18 @@ giveselfxp 500  \\ 加经验
 | modArmorQuadStoragePocketSchematic |  护甲四收纳口袋模组设计图 |
 | modGunLaserSightSchematic        |   激光瞄准器模组设计图  |
 | modGunMeleeRadRemoverSchematic  |    辐射去除模组设计图    |
+| modGunTriggerGroupSemiSchematic |   半自动模组设计图   |
+| modGunTriggerGroupBurst3Schematic |  三连发模组设计图   |
+| modGunTriggerGroupAutomaticSchematic |  全自动模组设计图  |
+| modGunBipodSchematic         |  双脚支架模组设计图  |
+| modGunForegripSchematic      |  前握把模组设计图    |
+| modGunRetractingStockSchematic |  收缩枪托模组设计图 |
+| modGunDuckbillSchematic      | 霰弹枪鸭嘴枪口模组设计图  |
+| modGunChokeSchematic         |  霰弹枪候缩模组设计图   |
+| modGunMagazineExtenderSchematic  | 弹夹扩充模组设计图  |
+| modShotgunSawedOffBarrelSchematic |  削短性霰弹枪模组设计图  |
+| modGunCrippleEmSchematic      |  致残模组设计图       |
+
 
 
 </details>
