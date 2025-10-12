@@ -213,6 +213,11 @@ giveselfxp 500  \\ 加经验
 | drinkJarBlackStrapCoffee      |   黑带咖啡    |
 | drinkJarBeer                  |   蜂蜜        |
 | drinkJarRedTea                |    红茶        |
+| foodBurntSmoothie              |   焦土果昔      |
+| foodOasisSmoothie             |   绿洲果昔     |
+| foodFrostbiteSmoothie          |   防冻果昔    |
+| foodAtomicSmoothie            |    原子果昔    |
+
 
 </details>
 
