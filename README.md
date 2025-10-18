@@ -194,14 +194,24 @@ giveselfxp 500  \\ 加经验
 | foodCropBlueberries            |   蓝莓        |
 | foodCropCorn                  |    玉米穗      |
 | foodCropGraceCorn              |   超级玉米穗   |
-| foodCropPotato                  |  土豆        |
-| foodCropYuccaFruit              |  兰丝果实    |
-| foodCropPumpkin                 |  南瓜        |
 | foodRawMeat                     |  生肉        |
-
 
 </details>
 
+<details>
+<summary>植物和种子</summary>
+
+|         item name             |     物品      |
+| ----------------------------  | ------------ |
+| resourceCropAloeLeaf          |  芦荟叶      |
+| foodCropPotato                  |  土豆        |
+| foodCropYuccaFruit              |  兰丝果实    |
+| foodCropPumpkin                 |  南瓜        |
+| resourceCropChrysanthemumPlant  |   菊花        |
+| resourceCropCottonPlant          |  棉花        |
+
+  
+</details>
 
 <details>
   <summary>饮品</summary>
