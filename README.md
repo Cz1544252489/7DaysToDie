@@ -9,6 +9,7 @@ giveselfxp 500  \\ 加经验
 
 ## 物品 
 参考文件 [https://github.com/Cz1544252489/7DaysToDie/blob/main/items.txt](https://github.com/Cz1544252489/7DaysToDie/blob/main/items.txt)
+
 最新参考文件 [https://github.com/Cz1544252489/7DaysToDie/blob/main/items.txt](https://github.com/Cz1544252489/7DaysToDie/blob/main/items1.txt)
 
 ### 工具
