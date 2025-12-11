@@ -72,6 +72,7 @@ giveselfxp 500  \\ 加经验
 | gunBowT3CompoundBow            |  复合弓        |
 | gunBowT1IronCrossbow           |  铁弩          |
 | gunBowT3CompoundCrossbow       |  复合弩        |
+| gunShotgunT1DoubleBarrelParts  |  霰弹枪零件    |
 
 </details>
 
