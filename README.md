@@ -294,6 +294,7 @@ giveselfxp 500  \\ 加经验
 | bookLuckyLooterDukes          |  幸运掠夺者第一卷    |
 | bookNightStalkerStealthDamage  |  夜行者第一卷      |
 | bookFiremansAlmanacHeat        |  消防员年鉴第一卷   |
+| spearsSkillMagazine            |  尖锐之棍          |
 
 </details>
 
@@ -321,6 +322,7 @@ giveselfxp 500  \\ 加经验
 | modGunMagazineExtenderSchematic  | 弹夹扩充模组设计图  |
 | modShotgunSawedOffBarrelSchematic |  削短性霰弹枪模组设计图  |
 | modGunCrippleEmSchematic      |  致残模组设计图       |
+| modVehicleArmorSchematic       |  载具护甲模组设计图  |
 
 
 
@@ -336,6 +338,11 @@ giveselfxp 500  \\ 加经验
 |  tier02Enforcer01              |   警察套装    |
 |  tier06Farmer01                |   农民套装    |
 | ringOfFireAdmin                |   开发：火焰环  |
+| tier06Nerd01                  |    学霸套装（重甲）  |
+| tier06Nomad01                 |    游牧民套装（重甲）    |
+| tier06Miner01                  |   矿工套装（重甲）  |
+| tier06Assassin01              |    刺客套装（中甲）|
+
 
 </details>
 
