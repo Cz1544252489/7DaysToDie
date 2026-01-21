@@ -73,6 +73,10 @@ giveselfxp 500  \\ 加经验
 | gunBowT1IronCrossbow           |  铁弩          |
 | gunBowT3CompoundCrossbow       |  复合弩        |
 | gunShotgunT1DoubleBarrelParts  |  霰弹枪零件    |
+| gunBotT3JunkDrone              |   无人机       |
+| gunShotgunT3AutoShotgun        |  自动霰弹枪    |
+| gunBotT2JunkTurret              | 机器人炮塔    |
+| gunBotT1JunkSledge            |  机器人大锤    |
 
 </details>
 
