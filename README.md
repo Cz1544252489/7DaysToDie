@@ -342,6 +342,7 @@ giveselfxp 500  \\ 加经验
 | tier06Nomad01                 |    游牧民套装（重甲）    |
 | tier06Miner01                  |   矿工套装（重甲）  |
 | tier06Assassin01              |    刺客套装（中甲）|
+| tier06Lumberjack01            |    伐木工套装(轻甲)  |
 
 
 </details>
