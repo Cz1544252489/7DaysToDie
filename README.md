@@ -274,7 +274,17 @@ giveselfxp 500  \\ 加经验
 |         item name             |     物品      |
 | ----------------------------  | ------------ |
 | workstationSkillMagazine      |  锻造指南    |
+| harvestingToolsSkillMagazine  |  工具摘要    |
+| masterSkillMagazine           |  ????       |
+| machineGunsSkillMagazine      |  战备竞赛    |
+| salvageToolsSkillMagazine     |  趣味分解    |
 | vehiclesSkillMagazine        |  交通工具书    |
+| seedSkillMagazine             | 南方种植      |
+| electricianSkillMagazine      | 布线101      |
+| foodSkillMagazine             | 家庭烹饪周刊  |
+| medicalSkillMagazine          |  医学期刊     |
+| armorSkillMagazine            |  全副武装     |
+| roboticsSkillMagazine         |  科技星球     |
 | bookGreatHeistGems            |  大劫掠第二卷  |
 | bookArtOfMiningCoffee         |  采矿的艺术第三卷 |
 | bookSniperDamag                | 狙击手第一卷    |
