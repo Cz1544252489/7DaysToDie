@@ -118,6 +118,8 @@ giveselfxp 500  \\ 加经验
 | ammoGasCanBundle              |   汽油罐堆      |
 | resourceGunPowderBundle        |   一堆火药      |
 | resourceAcid                    |  一瓶酸液     |
+| resourceScrapIronBundle       |   一堆铁       |
+| resourceLeadBundle             |   一堆铅      |
   
 </details>
 
@@ -157,6 +159,7 @@ giveselfxp 500  \\ 加经验
 | resourceScopeLens              |      瞄准镜镜片        |
 | resourceCropCottonPlant        |      棉花          |
 | resourceLegendaryParts          |    传奇零件        |
+| resourceLockPickBundle        |   一堆撬锁工具      |
 
 </details>
 
