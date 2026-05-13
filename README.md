@@ -290,7 +290,7 @@ giveselfxp 500  \\ 加经验
 | roboticsSkillMagazine         |  科技星球     |
 | bookGreatHeistGems            |  大劫掠第二卷  |
 | bookArtOfMiningCoffee         |  采矿的艺术第三卷 |
-| bookSniperDamag                | 狙击手第一卷    |
+| bookSniperDamage                | 狙击手第一卷    |
 | bookAutoWeaponsDamage         |  自动武器指导手册第一卷  |
 | bookUrbanCombatLanding        |  城市作战第一卷   |
 | bookTechJunkie1Damage         |  科技迷第一卷      |
