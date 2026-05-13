@@ -360,6 +360,18 @@ giveselfxp 500  \\ 加经验
 
 </details>
 
+<details>
+  <summary>环境生存装备</summary>
+
+|         item name             |     物品      |
+| ----------------------------  | ------------ |
+| biomeWeatherItem1             | 烟雾环境装备 |
+| biomeWeatherItem2             | 沙漠环境装备 |
+| biomeWeatherItem3             | 雪地环境装备 |
+| biomeWeatherItem4             | 辐射环境装备 |
+
+</details>
+
 
 
 
